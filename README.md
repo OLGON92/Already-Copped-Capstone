@@ -3,3 +3,4 @@
 * 12:06: Start Proposal
 * 1:12: Finish Proposal
 * 1:15: Research authentication libraries
+* 2:11: Futher look into the specifics of Auth0 and Firebase to decide which would be best for me. 
