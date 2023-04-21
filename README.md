@@ -11,3 +11,4 @@ _This is a web app that would allow you to post a listing to sell either used sh
 * 10:21: Look into some Redux documentation
 #### Thursday, 04/20/2023
 * 6:55pm: Do some further exploration into NoSQL, and decide whether or not I want to use that or SQL
+* 8:13: Review some React concepts by doing a codeCademy Lesson, and also review hooks in that same lesson
