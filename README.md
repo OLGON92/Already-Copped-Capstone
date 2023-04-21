@@ -9,3 +9,5 @@ _This is a web app that would allow you to post a listing to sell either used sh
 * 2:11: Futher look into the specifics of Auth0 and Firebase to decide which would be best for me. 
 * 2:50: Take some time to plan out tree(outline of my componenets)
 * 10:21: Look into some Redux documentation
+#### Thursday, 04/20/2023
+* 6:55pm: Do some further exploration into NoSQL, and decide whether or not I want to use that or SQL
