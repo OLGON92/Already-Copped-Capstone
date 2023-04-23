@@ -13,3 +13,5 @@ _This is a web app that would allow you to post a listing to sell either used sh
 * 6:55pm: Do some further exploration into NoSQL, and decide whether or not I want to use that or SQL
 * 8:13: Review some React concepts by doing a codeCademy Lesson, and also review hooks in that same lesson
 * 8:56: Continue with the lesson, and then take a break
+#### Saturday, 04/22/2023
+* 9:25: Continue with lesson from thursday
