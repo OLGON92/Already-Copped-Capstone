@@ -16,3 +16,5 @@ _This is a web app that would allow you to post a listing to sell either used sh
 #### Saturday, 04/22/2023
 * 9:25: Continue with lesson from thursday
 * 11:12: Take a break for now
+#### Sunday, 05/07/2023
+* 10:00: Continue with codecademy lesson
